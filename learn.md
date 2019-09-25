@@ -35,47 +35,64 @@
 
    **Bước 1. Khởi tạo repo**
 
-- Trước hết, để tạo một repository thì bạn cần truy cập vào thư mục của mã nguồn với lệnh cd, sau đó sử dụng lệnh git init để khởi tạo repository trong thư mục đó. Ở ví dụ này, mình sẽ tạo tạo ra một thư mục mới để chứa code sau này và khởi tạo repository cho nó, mình sẽ dùng lệnh git init tên_folder để nó tự khởi tạo thư mục.
- 
-   `$ git init ( git_example )`
-- sau khi tập tin đã được đưa vào trạng thái tracked và nếu một tập tin đã tracked thì nó phải được đưa vào lại Staging Area 
+**Đăng kí tài khoản Github tại [đây](https://github.com/)**
 
-  
-  `$ git add README.txt $ git status ( để xem trạng thái )`
-- Bây giờ thì bạn đã hoàn thành việc commit lần đầu tiên các tập tin mà bạn đã đưa vào kho.
- 
-  `$ git commit -m "miêu tả"`
-- Tiếp theo sẽ đẩy từ Staging area lên local repository.
+- Điền username, mail, password 
 
- `$ git push origin master ( origin - là tên remote ||  - master - là tên (branch - nhánh )`
+![](/images/dki.png)
 
- - Và cuối cùng là đồng bộ
+- Chọn verify 
 
- `$ git pull ( để đồng bộ về máy )`
+![](/images/dki2.png)
+
+- Xếp cho con vật đứng thẳng 
+
+![](/images/dki3.png)
+
+- Chọn create để đăng kí tài khoản
+
+![](/images/dki4.png)
+
+- Chọn continue để tiếp tục sử dụng Github miễn phí
+
+![](/images/dki5.png)
+
+- Điền vào ô trống rồi submit
+
+![](/images/dk6.png)
+
+- Tài khoản đã được tạo 
+
+![](/images/kq.png)
+
 
 **Bước 2: Fork repo**
 
-Sao chép dữ liệu về kho lưu trữ 
+Chọn Fork để lấy dữ liệu về
 
 ![](/images/fork.png)
 
 **Bước 3: Clone repo**
 
-Tạo ra bản sao remote repo về máy tính cá nhân 
-
+- Chọn clone or download
 
 ![](/images/clone.png)
 
+- Chọn open in destop 
+
+![](/images/open.png)
+
+
 **Bước 4: Commit repo**
 
-Lưu lại sự thay đổi của repo
+Chọn commit để thay đổi
 
 
 ![](/images/commit.png)
 
 **Bước 5: Push repo**
 
-Đồng bộ dữ liệu trên kho mã nguồn 
+Chọn push để cập nhật dữ liệu trên mã nguồn
 
 
 ![](/images/push.png)
@@ -83,11 +100,13 @@ Lưu lại sự thay đổi của repo
 
 **Bước 6: Pull repo** 
 
-Gửi xác nhận để đồng bộ dữ liệu có được chấp nhận hay không
+Gửi xác nhận để đồng bộ dữ liệu 
  
+- Chọn new pull request
 
 ![](/images/pull1.png)
 
+- Chọn create pull request
 
 ![](/images/pull2.png)
 
@@ -97,6 +116,7 @@ Gửi xác nhận để đồng bộ dữ liệu có được chấp nhận hay 
 
 ![](/images/pull3.png)
 
+- Chọn create pull request để hoàn thành
 
 ![](/images/pull4.png)
 
