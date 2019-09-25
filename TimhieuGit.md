@@ -4,7 +4,7 @@
 
 **2.GitHub là gì**
 
-**3.So sánh Git và GitHub
+**3.So sánh Git và GitHub**
 
 **4.Tìm hiểu về các thuật ngữ trong Git, GitHub**
 
