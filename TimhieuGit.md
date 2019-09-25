@@ -19,3 +19,4 @@
 -  **ví dụ**: bạn có một đoạn script dài 20 dòng, hôm sau bạn tối ưu nó đi, chỉ còn 15 dòng, một ngày khác bạn sửa ở script đó một vài chỗ. *Git* ghi lại những thời điểm thay đổi đó của bạn và source code của bạn tại thời điểm đó.
 - *Github* là một trang web, cho phép bạn lưu source code của mình lên đó
 - Git và GitHub sẽ giúp cho các lập trình viên có thể thuận tiện trong việc chỉnh sửa code tại mọi nơi mọi lúc mà ko sợ bị ghi đè code hay là mât dữ liệu do hỏng hóc do dữ liệu đều đc ghi ở trên wed và máy tính cá nhân , đồng thời bạn cũng có thể khôi phục lại code tại một thời điểm nào đó
+- ![ảnh quá mô tả quá trình](/ảnh/1.png)
