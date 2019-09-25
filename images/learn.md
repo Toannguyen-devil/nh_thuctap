@@ -19,8 +19,8 @@
 - `Git` là một mô hình hệ thống quản lí phiên bản phân tán
 - `Github` là một dịch vụ máy chủ mã nguồn công cộng
 
-![](/images/1.png)
- 
+ ![](/images/1.png)
+
 ## II.Các khái niệm và thuật ngữ cơ bản trong Git
 - `Reponsitory`: Mã nguồn
    - Public
@@ -31,7 +31,6 @@
 - `Pull request`: Khi tham gia phát triển phần mềm, khi xong 1 tính năng thì merge tính năng đó vào phần mềm ta sẽ gửi một pull request để máy chủ có chấp nhận hay không.
 - `Braches`: là các nhánh phát triển của repo, có thể thêm, sửa, xóa mà không hề ảnh hưởng tới brach chính.
 - `Issue`: có thể coi đó là một lỗi hay một lỗ hổng của một nội dung nào đó.
-                               
- 
-===================================Kết thúc ===============================================
 
+## III. Các thao tác cơ bản với Git
+- Tham khảo tại [đây](https://backlog.com/git-tutorial/vn/intro/intro3_1.html)
