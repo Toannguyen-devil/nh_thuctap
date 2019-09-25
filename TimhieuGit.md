@@ -1,4 +1,4 @@
-#Tìm Hiểu về Git và GitHub
+# Tìm Hiểu về Git và GitHub
 ## Mục Lục
 **1.Git là gì**
 
@@ -30,9 +30,9 @@
    - 4.Thêm tiêu đề và mô tả vào **pull request** của bạn
    - 5.Nhấn nút **Create pull request**
 - `Fork một Repository`:ork một repository (forking a repository) có nghĩa là bạn tạo một dự án mới dựa trên dự án cũ. Tức là, sao chép hoàn toàn một repository đã tồn tạo, tạo ra các thay đổi cần thiết, và lưu phiên bản mới này dưới dạng một repository độc lập hoàn toàn mới và gọi nó là dự án của riêng bạn.
- - Các bước thực hiện Fork
-  - 1.Tìm repository bạn muốn fork
-  - 2.Nhấn vào nút **Fork**
+  - Các bước thực hiện Fork
+   - 1.Tìm repository bạn muốn fork
+   - 2.Nhấn vào nút **Fork**
 - [link tham khảo thêm cho mọi người](https://blog.duyet.net/2015/04/git-va-cac-khai-niem-co-ban.html)
 ### 5.GitHub Desktop
 - **Người mới làm quen với *Git* thì**: có thể tham khảo trong link tài liệu sau về cách sử dụng GitHub Desktop , sau khi thực hiện được với GitHub Desktop và các thao tác cơ bản như là Pull,Fork,Push,Clone v.v
