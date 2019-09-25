@@ -18,7 +18,7 @@
 - `Git` là một mô hình hệ thống quản lí phiên bản phân tán
 - `Github` là một dịch vụ máy chủ mã nguồn công cộng
 
-![](/images/1.png)
+![](/images/github.png)
  
 ## II.Các khái niệm và thuật ngữ cơ bản trong Git
 - **Repository (repo)**: Nghĩa gốc là kho lưu trữ. Hiểu đơn giản, repo là các dự án bạn tạo ra, chứa mã nguồn phần mềm của bạn. Có 2 dạng: **Remote repo** (là repo chung được lưu trên server), và **Local repo** (là repo lưu trên máy của người dùng). Ta có thể làm việc và commit trên local reposity ngay cả trong điều kiện offline, khi có mạng chỉ việc đồng bộ lên remote repo để chia sẻ cho người dùng khác.
@@ -33,7 +33,7 @@
                                
 ## III. Thao tác trên Github destop
 
-   **Bước 1. Khởi tạo repo **
+   ** Bước 1. Khởi tạo repo **
 
 - Trước hết, để tạo một repository thì bạn cần truy cập vào thư mục của mã nguồn với lệnh cd, sau đó sử dụng lệnh git init để khởi tạo repository trong thư mục đó. Ở ví dụ này, mình sẽ tạo tạo ra một thư mục mới để chứa code sau này và khởi tạo repository cho nó, mình sẽ dùng lệnh git init tên_folder để nó tự khởi tạo thư mục.
  
@@ -53,7 +53,7 @@
 
  `$ git pull ( để đồng bộ về máy )`
 
-** Bước 2: Fork repo**
+** Bước 2: Fork repo **
 
 Sao chép dữ liệu về kho lưu trữ 
 
@@ -66,14 +66,14 @@ Tạo ra bản sao remote repo về máy tính cá nhân
 
 ![](/images/clone.png)
 
-** Bước 4: Commit repo**
+** Bước 4: Commit repo **
 
 Lưu lại sự thay đổi của repo
 
 
 ![](/images/commit.png)
 
-** Bước 5: Push repo**
+** Bước 5: Push repo **
 
 Đồng bộ dữ liệu trên kho mã nguồn 
 
@@ -92,6 +92,9 @@ Gửi xác nhận để đồng bộ dữ liệu có được chấp nhận hay 
 ![](/images/pull2.png)
 
 
+Điền title và comment 
+
+
 ![](/images/pull3.png)
 
 
@@ -106,6 +109,6 @@ Phản hồi chấp nhận hay không
 ![](/images/end.png)
 
 
-###Cám ơn các bạn đã đọc
+### Cám ơn các bạn đã đọc
 
 
