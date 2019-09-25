@@ -54,32 +54,58 @@
  `$ git pull ( để đồng bộ về máy )`
 
 ** Bước 2: Fork repo**
+
+Sao chép dữ liệu về kho lưu trữ 
+
 ![](/images/fork.png)
 
 ** Bước 3: Clone repo **
+
+Tạo ra bản sao remote repo về máy tính cá nhân 
+
+
 ![](/images/clone.png)
 
 ** Bước 4: Commit repo**
+
+Lưu lại sự thay đổi của repo
+
+
 ![](/images/commit.png)
 
 ** Bước 5: Push repo**
+
+Đồng bộ dữ liệu trên kho mã nguồn 
+
+
 ![](/images/push.png)
+
 
 ** Bước 6: Pull repo ** 
 
+Gửi xác nhận để đồng bộ dữ liệu có được chấp nhận hay không
+ 
+
 ![](/images/pull1.png)
+
 
 ![](/images/pull2.png)
 
+
 ![](/images/pull3.png)
+
 
 ![](/images/pull4.png)
 
+
 ** Bước 7: Merge repo **
+
+Phản hồi chấp nhận hay không 
+
 
 ![](/images/end.png)
 
 
-Cảm ơn các bạn đã đọc !!!
+###Cám ơn các bạn đã đọc
 
 
