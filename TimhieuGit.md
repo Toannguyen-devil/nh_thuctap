@@ -23,12 +23,12 @@
 ### 4.Một vài thuật ngữ của Git và GitHub
 - `Repository`(repo):hay repo là một thư viện nơi chứa các files của dự án. Nó có thể đặt trong bộ lưu trữ của GitHub hoặc trong repository của máy tính local. Bạn có thể chứa files code, hình ảnh, âm thanh hoặc mọi thứ liên quan đến dự án trong một repository.
 - `Pull Request`:Pull request có nghĩa là bạn thông báo với những người khác rằng bạn đã đẩy những thay đổi của Branch lên Repository tổng (master respository). Các cộng tác viên của repository này ẽ có chấp nhật hoặc từ chối pull request này. Khi nó được mở ra, bạn có thể thảo luận và xem lại công việc với những người cùng làm khác.
- - Các bước để tạo đc một *Pull Request*
-    - 1.Chuyển tới repository và tìm menu branch
-    - 2.Trong branch menu, chọn branch chứa thay đổi của bạn
-    - 3.Nhấn vào nút **New pull request** bên cạnh menu branch
-    - 4.Thêm tiêu đề và mô tả vào **pull request** của bạn
-    - 5.Nhấn nút **Create pull request**
+  - Các bước để tạo đc một *Pull Request*
+     - 1.Chuyển tới repository và tìm menu branch
+     - 2.Trong branch menu, chọn branch chứa thay đổi của bạn
+     - 3.Nhấn vào nút **New pull request** bên cạnh menu branch
+     - 4.Thêm tiêu đề và mô tả vào **pull request** của bạn
+     - 5.Nhấn nút **Create pull request**
 - `Fork một Repository`:ork một repository (forking a repository) có nghĩa là bạn tạo một dự án mới dựa trên dự án cũ. Tức là, sao chép hoàn toàn một repository đã tồn tạo, tạo ra các thay đổi cần thiết, và lưu phiên bản mới này dưới dạng một repository độc lập hoàn toàn mới và gọi nó là dự án của riêng bạn.
   - Các bước thực hiện Fork
     - 1.Tìm repository bạn muốn fork
