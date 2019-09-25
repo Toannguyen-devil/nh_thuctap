@@ -17,4 +17,4 @@
 - `Git` là một mô hình hệ thống quản lí phiên bản phân tán
 - `Github` là một dichj vụ máy chủ mã nguồn công cộng
 
-![](https://imgur.com/51E4pcG)
+![](/images/1.png)
