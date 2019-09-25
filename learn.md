@@ -1,4 +1,4 @@
-﻿#Git và Github 
+﻿**Git và Github** 
 
 ### 1. `Git` là gì?
 -`Git` (Didtributed Version Control System - DVCS) là hệ thống quản lí phiên bản phân tán.  
