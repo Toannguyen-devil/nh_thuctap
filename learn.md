@@ -1,2 +1,1 @@
-﻿#Git và  Github cho sysadmin
-##Mục lục  
+﻿#Git và Github cho sysadmin
