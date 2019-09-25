@@ -33,7 +33,7 @@
                                
 ## III. Thao tác trên Github destop
 
-   ** Bước 1. Khởi tạo repo **
+   **Bước 1. Khởi tạo repo**
 
 - Trước hết, để tạo một repository thì bạn cần truy cập vào thư mục của mã nguồn với lệnh cd, sau đó sử dụng lệnh git init để khởi tạo repository trong thư mục đó. Ở ví dụ này, mình sẽ tạo tạo ra một thư mục mới để chứa code sau này và khởi tạo repository cho nó, mình sẽ dùng lệnh git init tên_folder để nó tự khởi tạo thư mục.
  
@@ -53,27 +53,27 @@
 
  `$ git pull ( để đồng bộ về máy )`
 
-** Bước 2: Fork repo **
+**Bước 2: Fork repo**
 
 Sao chép dữ liệu về kho lưu trữ 
 
 ![](/images/fork.png)
 
-** Bước 3: Clone repo **
+**Bước 3: Clone repo**
 
 Tạo ra bản sao remote repo về máy tính cá nhân 
 
 
 ![](/images/clone.png)
 
-** Bước 4: Commit repo **
+**Bước 4: Commit repo**
 
 Lưu lại sự thay đổi của repo
 
 
 ![](/images/commit.png)
 
-** Bước 5: Push repo **
+**Bước 5: Push repo**
 
 Đồng bộ dữ liệu trên kho mã nguồn 
 
@@ -81,7 +81,7 @@ Lưu lại sự thay đổi của repo
 ![](/images/push.png)
 
 
-** Bước 6: Pull repo ** 
+**Bước 6: Pull repo** 
 
 Gửi xác nhận để đồng bộ dữ liệu có được chấp nhận hay không
  
@@ -101,7 +101,7 @@ Gửi xác nhận để đồng bộ dữ liệu có được chấp nhận hay 
 ![](/images/pull4.png)
 
 
-** Bước 7: Merge repo **
+**Bước 7: Merge repo**
 
 Phản hồi chấp nhận hay không 
 
