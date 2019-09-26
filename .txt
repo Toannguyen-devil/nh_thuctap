@@ -10,8 +10,8 @@
 - Networks(Mạng): là một mô hình bao gồm nhiều thành phần, các thành phần cơ bản nhất bao gồm các máy tính, thiết bị Router và Switch. Router dùng để truyền thông tin giữa các máy tính không cùng một mạng.
 - Phân loại Network ta có thể chia như sau 
  - Theo diện hoạt động 
-   - 1.*LAN* (Local Access Network – Mạng truy nhập cục bộ):là một mạng dữ liệu tốc độ cao bao phủ trong một phạm vi địa lý nhỏ  
-     - ví dụ như một phòng học, căn nhà, hoặc 1 tòa nhà hoặc một khu phức hợp.
+  - 1.*LAN* (Local Access Network – Mạng truy nhập cục bộ):là một mạng dữ liệu tốc độ cao bao phủ trong một phạm vi địa lý nhỏ  
+    - ví dụ như một phòng học, căn nhà, hoặc 1 tòa nhà hoặc một khu phức hợp.
 - ![ảnh minh hoạ](https://imgur.com/GRfnN3I.png)
   - 2.*WAN* (Wide Area Network – Mạng diện rộng):là một tập hợp các LAN kết nối với nhau thông qua công nghệ WAN hoặc Internet. Giải pháp sử dụng công nghệ WAN là thuê nhà cung cấp dịch vụ (kênh thuê riêng Leased Line, VPN,…) hoặc sử dụng internet.
 - ![ảnh minh hoạ](https://imgur.com/vAoRgOg.png)
@@ -19,17 +19,17 @@
 - ![ảnh minh hoạ](https://imgur.com/OLybfFj.png)
   - 4.*GAN* (Global Area network- Mạng toàn cầu): là mạng của các mạng WAN, trải rộng trên phạm vi toàn cầu 
 - ![ảnh minh hoạ](https://imgur.com/WsKsbxZ.png)
-     - Ví dụ: các công ty hoạt dông trên nhiều nước trên thế giới , mạng toàn cầu **Internet** cũng là một **GAN** đặc biệt
+    - Ví dụ: các công ty hoạt dông trên nhiều nước trên thế giới , mạng toàn cầu **Internet** cũng là một **GAN** đặc biệt
   - 5.*PAN* (Personal Area network-Mạng các nhân): là mạng chỉ sử dụng trong đình đình
  - Theo mô hình ghép nối
-   - 1.*Ponit-to-Point*(mô hình điểm-điểm): mạng gồm nhiều nút mỗi nút chỉ có thể liển lạc với nút liền kề qua đường truyền trực tiếp, mạng có thể bao gồm hàng ngàn nút mỗi nút nối trực tiếp với một nút nào đó.
-    - Ví dụ: mô hình mạng **Star**(hình sao) và **Tree**(cây)
+  - 1.*Ponit-to-Point*(mô hình điểm-điểm): mạng gồm nhiều nút mỗi nút chỉ có thể liển lạc với nút liền kề qua đường truyền trực tiếp, mạng có thể bao gồm hàng ngàn nút mỗi nút nối trực tiếp với một nút nào đó.
+   - Ví dụ: mô hình mạng **Star**(hình sao) và **Tree**(cây)
 - ![ảnh minh hoạ](https://imgur.com/tgQGVxn.png)
   - 2.*Broadcast*(mô hình điểm- nhiều điểm): mạng gồm vác nút dùng chung một kê truyền thông. Khác với mô hình điểm-điểm , dữ liệu từ một máy gửi đi sẽ được truyền đến tất cả các nít tham gia kênh truyền dùng chung. Trong mô hình này cũng có các kiểu truyền thông điệp khác nhau như là *unicast*,*multicast*,*broadcast*
-    - Ví dụ: mô hình mạng **BUS** và **RING**
+   - Ví dụ: mô hình mạng **BUS** và **RING**
 - ![ảnh minh hoạ](https://imgur.com/wNedJDo.png)
  - Theo kiểu chuyển 
-   - 1.*Circuit-switched*(chuyển mạch ảo):phải thiết lập mạch vật lý giữa nút nguồn và nút địch trước khi chuyền dữ liệu thực sự, mạch này tồn tại trong suốt thời gian chuyển dữ liệu
+  - 1.*Circuit-switched*(chuyển mạch ảo):phải thiết lập mạch vật lý giữa nút nguồn và nút địch trước khi chuyền dữ liệu thực sự, mạch này tồn tại trong suốt thời gian chuyển dữ liệu
 - ![ảnh minh hoạ](https://imgur.com/ZOxFszj.png)
   - 2.*Packet-switched network*(chuyển mạch gói): thông điệp đầu tiên được chia thành những đơn vị nhỏ hơn gọi là gói (Packet), sau những lần packet lần lượt gửi tới nút nhận qua mạng lưới các thiết bị chuyển mạch trung gian(Switch)
 - ![ảnh minh hoạ](https://imgur.com/7yg1z41.png)
