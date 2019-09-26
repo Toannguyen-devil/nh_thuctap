@@ -5,7 +5,7 @@
 - **3.Network public và private,ip**
 - **4.Mô hình *Peer to Peer* và *Client-server***
 - **5.Tìm hiểu về *Router*,*Hub*,*Switch***
-- **6.Mô tả chức năng của firewall và gateway**
+- **6.Mô tả chức năng của *Firewall* và *Gateway***
 
 ### **1.Network là gì,phân loại netword,các thành phần cơ bản của network**
 - Networks(Mạng): là một mô hình bao gồm nhiều thành phần, các thành phần cơ bản nhất bao gồm các máy tính, thiết bị Router và Switch. Router dùng để truyền thông tin giữa các máy tính không cùng một mạng.
