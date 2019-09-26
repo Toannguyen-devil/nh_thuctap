@@ -76,14 +76,17 @@
 ![ảnh minh hoạ](https://imgur.com/7dRylQ2.png)
   - [link tham khảo thêm](https://www.digistar.vn/http-la-gi-tim-hieu-ve-giao-thuc-http-va-https/)
 - **FTP(File Transfer Protocol)**: thường được dùng để trao đổi tập tin qua mạng lưới truyền thông dùng giao thức TCP/IP (chẳng hạn như Internet - mạng ngoại bộ - hoặc Intranet - mạng nội bộ). Hoạt động của FTP cần có hai máy tính, một máy chủ và một máy khách). Máy chủ FTP, dùng chạy phần mềm cung cấp dịch vụ FTP, gọi là trình chủ, lắng nghe yêu cầu về dịch vụ của các máy tính khác trên mạng lưới. Máy khách chạy phần mềm FTP dành cho người sử dụng dịch vụ, gọi là trình khách, thì khởi đầu một liên kết với máy chủ. Một khi hai máy đã liên kết với nhau, máy khách có thể xử lý một số thao tác về tập tin, như tải tập tin lên máy chủ, tải tập tin từ máy chủ xuống máy của mình, đổi tên của tập tin, hoặc xóa tập tin ở máy chủ v.v
+
 ![ảnh minh hoạ](https://imgur.com/IsE3bc4.png)
   - [link tham khảo thêm](https://vi.wikipedia.org/wiki/FTP)
 - **DHCP(Dynamic Host Configuration Protocol)**:có nhiệm vụ giúp quản lý nhanh, tự động và tập trung việc phân phối địa chỉ IP bên trong một mạng. Ngoài ra DHCP còn giúp đưa thông tin đến các thiết bị hợp lý hơn cũng như việc cấu hình subnet mask hay cổng mặc định.
 ![ảnh minh hoạ](https://imgur.com/8cP3ElQ.png)
   - [link tham khảo thêm](https://www.totolink.vn/article/111-dhcp-la-gi-tim-hieu-ve-dhcp.html)
 - **DNS(Domain Name System)**:là Hệ thống phân giải tên được phát minh vào năm 1984 cho Internet, chỉ một hệ thống cho phép thiết lập tương ứng giữa địa chỉ IP và tên miền. Hệ thống tên miền (DNS) là một hệ thống đặt tên theo thứ tự cho máy vi tính, dịch vụ, hoặc bất kỳ nguồn lực tham gia vào Internet. Nó liên kết nhiều thông tin đa dạng với tên miền được gán cho những người tham gia. Quan trọng nhất là, nó chuyển tên miền có ý nghĩa cho con người vào số định danh (nhị phân), liên kết với các trang thiết bị mạng cho các mục đích định vị và địa chỉ hóa các thiết bị khắp thế giới.
+
 ![ảnh minh hoạ](https://imgur.com/5s7m8Ap.png)
   - [link tham khảo thêm](https://manage.hostvn.net/knowledgebase/68/DNS-la-gi-.html)
 - **Telnet(ErminaL NETwork)**:là một giao thức mạng (network protocol) được dùng trên các kết nối với Internet hoặc các kết nối tại mạng máy tính cục bộ LAN
+
 ![ảnh minh hoạ](https://imgur.com/qIgqTzV.png)
   - [link tham khảo thêm](https://vi.wikipedia.org/wiki/Telnet)
