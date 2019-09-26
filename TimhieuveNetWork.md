@@ -19,11 +19,11 @@
 - ![ảnh minh hoạ](https://imgur.com/OLybfFj.png)
   - 4.*GAN* (Global Area network- Mạng toàn cầu): là mạng của các mạng WAN, trải rộng trên phạm vi toàn cầu 
 - ![ảnh minh hoạ](https://imgur.com/WsKsbxZ.png)
-     - Ví dụ: các công ty hoạt dông trên nhiều nước trên thế giới , mạng toàn cầu **Internet** cũng là một **GAN** đặc biệt
+      - Ví dụ: các công ty hoạt dông trên nhiều nước trên thế giới , mạng toàn cầu **Internet** cũng là một **GAN** đặc biệt
   - 5.*PAN* (Personal Area network-Mạng các nhân): là mạng chỉ sử dụng trong đình đình
  - Theo mô hình ghép nối
    - 1.*Ponit-to-Point*(mô hình điểm-điểm): mạng gồm nhiều nút mỗi nút chỉ có thể liển lạc với nút liền kề qua đường truyền trực tiếp, mạng có thể bao gồm hàng ngàn nút mỗi nút nối trực tiếp với một nút nào đó.
-    - Ví dụ: mô hình mạng **Star**(hình sao) và **Tree**(cây)
+     - Ví dụ: mô hình mạng **Star**(hình sao) và **Tree**(cây)
 - ![ảnh minh hoạ](https://imgur.com/tgQGVxn.png)
   - 2.*Broadcast*(mô hình điểm- nhiều điểm): mạng gồm vác nút dùng chung một kê truyền thông. Khác với mô hình điểm-điểm , dữ liệu từ một máy gửi đi sẽ được truyền đến tất cả các nít tham gia kênh truyền dùng chung. Trong mô hình này cũng có các kiểu truyền thông điệp khác nhau như là *unicast*,*multicast*,*broadcast*
     - Ví dụ: mô hình mạng **BUS** và **RING**
