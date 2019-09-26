@@ -5,6 +5,7 @@
 - **3.Network public và private,ip**
 - **4.Mô hình *Peer to Peer* và *Client-server***
 - **5.Tìm hiểu về *Router*,*Hub*,*Switch***
+- **6.Mô tả chức năng của firewall và gateway**
 
 ### **1.Network là gì,phân loại netword,các thành phần cơ bản của network**
 - Networks(Mạng): là một mô hình bao gồm nhiều thành phần, các thành phần cơ bản nhất bao gồm các máy tính, thiết bị Router và Switch. Router dùng để truyền thông tin giữa các máy tính không cùng một mạng.
@@ -90,5 +91,29 @@
   - **Hub thông minh (Intelligent Hub)**: cũng là Hub chủ động nhưng có thêm các chức năng mới so với loại trước, nó có thể có bộ vi xử lý của mình và bộ nhớ mà qua đó nó không chỉ cho phép điều khiển hoạt động thông qua các chương trình quản trị mạng mà nó có thể hoạt động như bộ tìm đường hay một cầu nối. Nó có thể cho phép tìm đường cho gói tin rất nhanh trên các cổng của nó, thay vì phát lại gói tin trên mọi cổng thì nó có thể chuyển mạch để phát trên một cổng có thể nối tới trạm đích.
 - **Switch**:hay còn gọi là thiết bị chuyển mạch, là một thiết bị dùng để kết nối các đoạn mạng với nhau theo mô hình mạng hình sao (star). Theo mô hình này, switch đóng vai trò là thiết bị trung tâm, tất cả các máy tính đều được nối về đây.Switch làm việc như một Bridge nhiều cổng. Khác với Hub nhận tín hiệu từ một cổng rồi chuyển tiếp tới tất cả các cổng còn lại, switch nhận tín hiệu vật lý, chuyển đổi thành dữ liệu, từ một cổng, kiểm tra địa chỉ đích rồi gửi tới một cổng tương ứng.Trong mô hình tham chiếu OSI, switch hoạt động ở tầng liên kết dữ liệu, ngoài ra có một số loại switch cao cấp hoạt động ở tầng mạng.
 - ![ảnh minh hoạ](https://imgur.com/5ad0PBl.png)
+### **6.Mô tả chức năng của firewall và gateway**
+-  **Tường lửa**: là thuật ngữ chuyên ngành  mạng máy tính  nó thể hiện một kỹ thuật được tích hợp vào hệ thống mạng để chống sự truy cập trái phép nhằm bảo vệ các nguồn thông tin nội bộ cũng như hạn chế sự xâm nhập của một số truy cập không mong muốn vào hệ thống của các cá nhân, tố chức, doanh nghiệp , cơ quan chính phủ. Tường lửa là một thiết bị phần cứng , phần mềm  hoặc là cả 2 kết hợp với nhau , và  hoạt động trong môi trường mạng nội bộ  làm 1 rào chắn  để ngăn chặn  một số liên lạc bị cấm bởi các chính sách .
+  - *Chức năng của tưởng lửa*:Chức năng chính của **Tường Lửa ( Firewall)**  là kiểm soát luồng thông tin  giữa môi trường intranet và internet. Thiết lập cơ chế điều khiển dòng thông tin  giữa mạng bên trong và mạng internet.
+   - Cho phép hoặc cấm các dịch ngoài truy cập ra ngoài
+   - Cho phép hoặc cấm các dịch vụ từ ngoài truy cập vào bên trong
+   - Theo dõi luồng dữ liệu giữ môi trường tntranet và internet
+   - Kiểm soát địa chỉ truy nhập , cấm hoặc cho phép địa chỉ truy nhập
+   - Kiểm soát người dùng và việc truy cập của người dùng
+   - Lọc các gói tin dựa vào địa chỉ nguồn , địa chỉ đích và số cổng (port) , giao thức
+   - Có thể sử dụng để ghi lại tất cả các sự cố gắng truy nhập vào mạng và báo cáo cho người quản trị
+   - Một số tường lửa có chức năng cao cấp như đánh lừa hacker khiến họ nhầm đã tấn công được nhưng thật chất là đang ngầm theo dõi lại và ghi lại hoạt động 
+![ảnh minh hoạ](https://imgur.com/hiqF04Q.png)
+- [Link tham khảo về firewall 1](https://vi.wikipedia.org/wiki/T%C6%B0%E1%BB%9Dng_l%E1%BB%ADa)
+- [Link tham khảo về firewall 2](https://quantrimang.com/tong-quan-ve-firewall-84474)
+- **Gateway**: cho phép nối ghép hai loại giao thức với nhau. Ví dụ: mạng của bạn sử dụng giao thức IP và mạng của ai đó sử dụng giao thức IPX, Novell, DECnet, SNA… hoặc một giao thức nào đó thì Gateway sẽ chuyển đổi từ loại giao thức này sang loại khác.Qua Gateway, các máy tính trong các mạng sử dụng các giao thức khác nhau có thể dễ dàng “nói chuyện” được với nhau. Gateway không chỉ phân biệt các giao thức mà còn còn có thể phân biệt ứng dụng như cách bạn chuyển thư điện tử từ mạng này sang mạng khác, chuyển đổi một phiên làm việc từ xa
+![ảnh minh hoạ](https://imgur.com/Pqd8kVU.png)
+  - Muốn biết được địa chỉ gateway của máy ta có thể là như sau:
+    - Bước 1: mở cửa sổ cmd (tổ hợp phím cửa sổ + R sau đó gõ cmd)
+![ảnh minh hoạ](https://imgur.com/6REipj8.png)
+    - Bước 2: cửa sổ cmd hiện ta nhập lệnh sau **ipconfig(đối vs window)**
+![ảnh minh hoạ](https://imgur.com/5F2xcvR.png)
+    - Bước 3: bảng địa chỉ ip hiện lên nhìn đến dòng **Default Gateway**
+![ảnh minh hoạ](https://imgur.com/66TwM45.png)
+- [Link để tham khảo thêm một số cách check địa chỉ Gateway](https://thuthuat.taimienphi.vn/default-gateway-la-gi-cach-xem-default-gateway-cua-modem-wifi-vnpt-fpt-viettel-37363n.aspx)
 
 
