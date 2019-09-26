@@ -18,8 +18,9 @@
   - 3.*MAN* (Metropolitan Area network- Mạng đô thị):là "mạng đô thị", là mạng có cỡ lớn hơn LAN, phạm vi vài km. Nó có thể bao gồm nhóm các văn phòng gần nhau trong thành phố, nó có thể là công cộng hay tư nhân
 - ![ảnh minh hoạ](https://imgur.com/OLybfFj.png)
   - 4.*GAN* (Global Area network- Mạng toàn cầu): là mạng của các mạng WAN, trải rộng trên phạm vi toàn cầu 
+    - Ví dụ: các công ty hoạt dông trên nhiều nước trên thế giới , mạng toàn cầu **Internet** cũng là một **GAN** đặc biệt
 - ![ảnh minh hoạ](https://imgur.com/WsKsbxZ.png)
-      - Ví dụ: các công ty hoạt dông trên nhiều nước trên thế giới , mạng toàn cầu **Internet** cũng là một **GAN** đặc biệt
+      
   - 5.*PAN* (Personal Area network-Mạng các nhân): là mạng chỉ sử dụng trong đình đình
  - Theo mô hình ghép nối
    - 1.*Ponit-to-Point*(mô hình điểm-điểm): mạng gồm nhiều nút mỗi nút chỉ có thể liển lạc với nút liền kề qua đường truyền trực tiếp, mạng có thể bao gồm hàng ngàn nút mỗi nút nối trực tiếp với một nút nào đó.
